@@ -17,7 +17,7 @@
 1) 2D_non_Linear_long_wave_propagation.py	津波伝播プログラム
 2) depth_1620-01.csv				    1620mメッシュ水深データ
 3) surface_1620.csv				      1620mメッシュ初期水位データ
-4) draw_suface_depth_image.py		初期水位分布を図示するプログラム
+4) draw_surface_depth_image.py		初期水位分布を図示するプログラム
 5) file_name.csv				        各時刻の計算結果のファイル名リスト
 6) draw_surface_1_image.py			任意の時刻の計算結果を図示するプログラム
 7) draw_surface_all_images.py		すべての計算結果を図示するプログラム
